@@ -38,8 +38,8 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| 💰 **FinFlow** | Personal finance dashboard with Bengali UI & charts | [View]https://abirhossen01.github.io/FinFlow/) |
-| 🎮 **ARISE** | Self-improvement RPG app with progress tracking | [View](https://github.com/abirhossen01) |
+| 💰 **FinFlow** | Personal finance dashboard with Bengali UI & charts | [View](https://abirhossen01.github.io/FinFlow/) |
+| 🎮 **ARISE** | Self-improvement RPG app with progress tracking | [View](https://abirhossen01.github.io/ARISE/) |
 | 💪 **FitBD** | Bilingual workout tracker with AI tips | [View](https://github.com/abirhossen01) |
 | 📚 **MENTOR AI** | Bengali AI study app with smart roadmaps | [View](https://github.com/abirhossen01) |
 
