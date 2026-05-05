@@ -43,8 +43,6 @@
 | 💪 **FitBD** | Bilingual workout tracker with AI tips | [View](https://github.com/abirhossen01) |
 | 📚 **MENTOR AI** | Bengali AI study app with smart roadmaps | [View](https://github.com/abirhossen01) |
 
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -52,11 +50,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abirhossen01&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
----
-
 ## 📫 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://abir5432.carrd.co)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://abirhossen01.github.io/Portfolio/#contact)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](www.youtube.com/@LearntoMake-t3s)
 [![LinkedIn][![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abir-hossen772/)
 
