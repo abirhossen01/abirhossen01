@@ -58,5 +58,5 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://abir5432.carrd.co)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com)
-[![LinkedIn](https://www.linkedin.com/in/abir-hossen772/)
+[![LinkedIn][![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abir-hossen772/)
 
