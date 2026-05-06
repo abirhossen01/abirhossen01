@@ -40,15 +40,10 @@
 |---------|-------------|------|
 | 💰 **FinFlow** | Personal finance dashboard with Bengali UI & charts | [View](https://abirhossen01.github.io/FinFlow/) |
 | 🎮 **ARISE** | Self-improvement RPG app with progress tracking | [View](https://abirhossen01.github.io/ARISE/) |
-| 💪 **FitBD** | Bilingual workout tracker with AI tips | [View](https://github.com/abirhossen01) |
-| 📚 **MENTOR AI** | Bengali AI study app with smart roadmaps | [View](https://github.com/abirhossen01) |
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abirhossen01&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abirhossen01&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abirhossen01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abirhossen01&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=abirhossen01&theme=tokyonight&hide_border=true" width="60%" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=abirhossen01&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
 
 ## 📫 Connect With Me
 
