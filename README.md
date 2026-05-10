@@ -41,7 +41,7 @@
 | 💰 **FinFlow** | Personal finance dashboard with Bengali UI & charts | [View](https://abirhossen01.github.io/FinFlow/) |
 | 🎮 **ARISE** | Self-improvement RPG app with progress tracking | [View](https://abirhossen01.github.io/ARISE/) |
 | **SpiceGarden**| Online Menu Website,Table Reservation,Food Gallery,Google Maps + SEO | [View](https://abirhossen01.github.io/SpiceGarden/) |
-| 🧭 **LPT** | It tracks your life progress. | [View](https://abirhossen01.github.io/LPT/) |
+
 ---
 
 ## 📈 GitHub Stats
